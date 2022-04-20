@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7QUlWPM/OM/bUe4WIF3y1Ec4bkJ1YUELlxAGArSQyhMksqvTKwshhEysKGu7KZcpBJLatIK4OaOMRCYGatl8cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UCSE\\OneDrive - Universidad Católica de Santiago del Estero\\Documentos\\Prog\\EmpresaPaquetes\\EmpresaPaquetes\\Logica\\Logica\\Logica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UCSE\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

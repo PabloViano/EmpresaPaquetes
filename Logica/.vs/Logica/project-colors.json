@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88af9f9d-defa-4576-b46e-480f97792a6f": {
+      "ProjectGuid": "88af9f9d-defa-4576-b46e-480f97792a6f",
+      "DisplayName": "Logica",
+      "ColorIndex": 0
+    },
+    "148c6b91-0c7e-4b36-a72b-1e8bfcafbbdf": {
+      "ProjectGuid": "148c6b91-0c7e-4b36-a72b-1e8bfcafbbdf",
+      "DisplayName": "Entidades",
+      "ColorIndex": 1
+    },
+    "31e262e8-ad64-4dd2-9b37-c784ca595ff2": {
+      "ProjectGuid": "31e262e8-ad64-4dd2-9b37-c784ca595ff2",
+      "DisplayName": "Persistencia",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
